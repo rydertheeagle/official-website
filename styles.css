@@ -95,3 +95,14 @@ h1 {
   color: var(--brand-red);
 }
 
+@media (max-width: 920px) {
+ .main {
+  flex-direction: column;
+  height: 100%;
+ }
+
+ .center {
+  padding: 3rem;
+ }
+ 
+}
