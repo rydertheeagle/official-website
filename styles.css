@@ -76,3 +76,22 @@ body {
   width: 360px;
 }
 
+.punch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.punch-img {
+  height: 400px;
+  padding: 1rem;
+}
+
+h1 {
+  color: var(--brand-red);
+}
+
+.tickets-link {
+  color: var(--brand-red);
+}
+
