@@ -84,8 +84,10 @@ body {
 }
 
 .punch-img {
-  height: 400px;
+  height: 360px;
   padding: 1rem;
+  border: 1px solid var(--brand-green);
+  margin-bottom: 2rem;
 }
 
 h1 {
