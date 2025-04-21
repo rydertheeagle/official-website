@@ -50,7 +50,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 5rem 3rem;
+  padding: 4rem 3rem;
 
   .link-home {
     font-size: 36px;
@@ -68,12 +68,13 @@ body {
 
 .center {
   margin: auto;
-  padding: 0 3rem;
+  padding: 0 2rem;
 }
 
 
 .left-img, .right-img {
   width: 360px;
+  padding: 0 1rem;
 }
 
 .punch {
@@ -89,6 +90,7 @@ body {
 
 h1 {
   color: var(--brand-red);
+  text-align: center;
 }
 
 .tickets-link {
